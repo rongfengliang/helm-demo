@@ -34,6 +34,6 @@ helm push gateway/ chartmuseum
 
 ```bash
 
-helm  install gateway
+helm  install chartmuseum/gateway
 
 ```
